@@ -1,0 +1,10 @@
+streamlit
+rembg
+torch
+torchvision
+pillow
+opencv-python
+numpy
+python-dotenv
+openai
+requests
